@@ -1,0 +1,93 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #04101d;
+}
+
+.navbar {
+
+  
+    height: 60px;
+      width: 100%;
+      
+      
+}
+
+.marketing-section {
+    margin-top: 50px;
+}
+
+#product-image {
+    max-width: 300px;
+    border-radius: 300px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h2 {
+    font-weight: bold;
+    color: #333;
+}
+
+h3.price {
+    font-size: 1.5rem;
+    color: #e74c3c;
+    font-weight: bold;
+}
+
+#buy-button {
+    background-color: #36302f;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+#buy-button:hover {
+    background-color: #c0392b;
+}
+
+.feature {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin-bottom: 30px;
+}
+
+.feature h4 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #34495e;
+}
+
+.feature p {
+    font-size: 1rem;
+    color: #7f8c8d;
+}
+
+
+    #rrr {height: 10px;
+        width: 30%;
+
+    }
+.header {
+    text-align: center;
+    font-size: larger;
+}
+.imggg{
+    max-width: 200px;
+    border-radius: 100px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+   
+}
+   .imggg1{
+    max-width: 200px;
+    border-radius: 100px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+
+   }
+
